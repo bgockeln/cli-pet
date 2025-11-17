@@ -5,9 +5,6 @@
 import os
 import sys
 import platform
-from textual.app import App, ComposeResult
-from textual.containers import Horizontal, Vertical
-from textual.widgets import Static, Button, Footer
 from pet import Pet
 
 def clear_screen():
