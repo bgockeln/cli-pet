@@ -1,7 +1,7 @@
 # CLI Pet
 ![Python](https://img.shields.io/badge/python-3.12-blue)
-![Status](https://img.shields.io/badge/status-finished-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
 
 Ein kleines CLI-Haustier, geschrieben in Python. Dieses Projekt entstand als erster Versuch mit objektorientierter Programmierung (OOP).
 
